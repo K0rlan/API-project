@@ -1,0 +1,6 @@
+module Pods_ProjectForMidterm_final_final_poslednyaversia_final {
+  umbrella header "Pods-ProjectForMidterm_final_final_poslednyaversia_final-umbrella.h"
+
+  export *
+  module * { export * }
+}
